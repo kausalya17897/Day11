@@ -1,0 +1,15 @@
+h3{
+    text-align:center;
+  }
+  .container{
+    background:rgb(137, 147, 202);
+    border:5px solid black;
+    
+  }
+  label,input{
+    margin:10px;
+  }
+
+  form{
+    width:50%;
+  }

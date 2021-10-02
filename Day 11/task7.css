@@ -1,0 +1,19 @@
+h3{
+    background: red;
+}
+form{
+    border:1px solid black;
+    width:50%;
+    padding: 10px;
+
+}
+.address{
+    width: 80%;
+    margin: 10px;
+}
+.place{
+    margin:10px;
+}
+.plan{
+margin:10px;
+}
